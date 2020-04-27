@@ -8,7 +8,7 @@ body{
 .container{
     border: 2px solid gray;
     text-align: left;
-    color: black;
+    color: red;
     margin: 0px auto;
     width: 70%;
 }
