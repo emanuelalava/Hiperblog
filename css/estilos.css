@@ -10,7 +10,6 @@ body{
     text-align: left;
     color: black;
     margin: 0px auto;
-    padding: 20px;
     width: 70%;
 }
 
@@ -27,4 +26,8 @@ body{
     font-family: 'Courier';
     text-align: center;
     font-weight: bold;
+}
+
+.post{
+    padding: 15px;
 }
